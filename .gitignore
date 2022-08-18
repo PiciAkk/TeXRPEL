@@ -1,0 +1,6 @@
+.lsp/
+.clj-kondo/
+app/.calva/
+app/.nrepl-port
+app/.hgignore
+app/lein-failures
